@@ -3,22 +3,28 @@
 
 Welcome to the Fake News Detection repository, where we have built an intelligent machine learning model to combat the spread of misinformation and fake news.
 
-Overview:
+Overview:-
+
 In today's digital age, misinformation can spread like wildfire, leading to significant consequences on individuals and society as a whole. This project aims to address this critical issue by utilizing the power of Machine Learning to identify and flag potential instances of fake news.
 
-Key Features:
+Key Features:-
 
-Natural Language Processing (NLP): Our model employs state-of-the-art NLP techniques to extract meaningful features from news articles and textual data.
-Machine Learning Algorithms: We have trained our model using a diverse range of ML algorithms to ensure accurate and robust detection.
-Dataset: The model was trained on a meticulously curated dataset containing both real and fake news samples, making it capable of generalizing to various scenarios.
-Performance Metrics: We have thoroughly evaluated the model's performance using industry-standard metrics to ensure its reliability and effectiveness.
+1. Natural Language Processing (NLP): Our model employs state-of-the-art NLP techniques to extract meaningful features from news articles and textual data.
 
-Contributing:
+2. Machine Learning Algorithms: We have trained our model using a diverse range of ML algorithms to ensure accurate and robust detection.
+
+3. Dataset: The model was trained on a meticulously curated dataset containing both real and fake news samples, making it capable of generalizing to various scenarios.
+
+4. Performance Metrics: We have thoroughly evaluated the model's performance using industry-standard metrics to ensure its reliability and effectiveness.
+
+Contributing:-
+
 We welcome contributions from the open-source community to enhance the model's capabilities, improve its accuracy, and expand its language support.
 
-Usage:
+Usage:-
+
 Feel free to use our model to detect fake news and integrate it into your own projects to create a safer and more reliable information ecosystem.
 
-Contributors:
+Contributors:-
 
 This project was built by Shourya Shri, Rudra Pratap Singh Katal, Akshat Singhal and Sumit Kumar.
